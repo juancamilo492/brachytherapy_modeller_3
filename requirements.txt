@@ -6,3 +6,4 @@ SimpleITK
 pillow
 pydicom
 scikit-image
+altair
